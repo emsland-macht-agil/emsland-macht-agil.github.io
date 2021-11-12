@@ -1,6 +1,5 @@
-repository: lngn-agile-meetup/lngn-agile-meetup.github.io
-theme: jekyll-theme-minimal
-title: LNGN Agile Meetup
+repository: emsland-macht-agil/emsland-macht-agil.github.io
+theme: jekyll-theme-cayman
+title: Emsland macht Agil
 description: Emsländisches Netzwerk rund um Agile Entwicklung
-logo: /allgemeines/logo-2018-web.png
 show_downloads: false
