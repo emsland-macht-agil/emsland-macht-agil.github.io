@@ -1,11 +1,44 @@
-# LNGN-Agile-Meetup
+# Emsland macht Agil
 
-Das LNGN Agile Meetup diskutiert regelmäßig Themen rund um moderner Softwareentwicklung und Agile Methoden. Wechselnde Themen und die Möglichkeit sich jederzeit einzubringen machen das Meetup zu einem idealen Ort zur persönlichen Weiterentwicklung und zum Netzwerken. Unsere Veranstaltungen finden einmal im Quartal im IT-Zentrum Lingen statt. Wenn Du über die neusten Veranstaltungen informiert werden möchtest, dann folge uns hier, auf Twitter unter [#LNGNAgileMeetup](https://twitter.com/hashtag/LNGNAgileMeetup?src=hash) oder auf Github kannst Du gerne den [RSS-Feed](https://github.com/lngn-agile-meetup/lngn-agile-meetup.github.io/commits/master.atom) abonnieren. Wir freuen uns über deine Teilnahme.
+Das Emsland macht Agil Meetup diskutiert regelmäßig Themen rund um moderner Softwareentwicklung und Agile Methoden.
+Wechselnde Themen und die Möglichkeit sich jederzeit einzubringen machen das Meetup zu einem idealen Ort
+zur persönlichen Weiterentwicklung und zum Netzwerken. 
 
-<img align="center" alt="Ein Meetup in 2017" src="allgemeines/foto-der-teilnehmer-600.jpg"/>
+Unsere Veranstaltungen finden einmal im Quartal statt. Hierzu versuchen wir uns im Emsland zu verteilen und das
+Meetup bei lokalen Firmen durchzuführen.
+
+Wenn Du über die neusten Veranstaltungen informiert werden möchtest, dann folge uns auf Twitter unter
+[#emslandmachtagil](https://twitter.com/hashtag/emslandmachtagil?src=hash) oder abonniere den 
+Github [RSS-Feed](https://github.com/emsland-macht-agil/emsland-macht-agil.github.io/commits/main.atom) Feed.
+
+Wir freuen uns über deine Teilnahme.
 
 Viele Grüße 
 Ben und Marcel
+
+### Wer macht sonst noch Agil?
+
+**Emsland macht Agil** gehört zu der [wermachtagil](https://wermachtagil.de/) Reihe und ist auch an anderen
+Standorten vertreten. Besuche doch unsere Webseite für weitere Informationen oder tritt direkt dem [Slack Workspace](https://join.slack.com/t/wermachtagil/shared_invite/enQtOTAwNDYwOTk3OTM3LWY5YjA2YzgxYmMxZDhkMWMxNzhkNzg5MDZhYjAzODk1OGVlN2ZlODBhMmMyNDk0YWFmMjk5MGUxNTQwYTQ4YWM) bei.
+
+# Termine 2021
+### 25. November 2021
+Wir möchten euch wiedersehen! Zwei Jahre ist es her, dass wir uns in Persona über Agile Methoden im Emsland ausgetauscht haben.
+
+**Agenda**
+* 18:00 Uhr Begrüßung
+* 18:30 Uhr OpenSpace: Lightning Talks sammeln und priorisieren
+  * Lightning Talk 1 (15min +15min Diskussion)
+  * Lightning Talk 2 (15min +15min Diskussion)
+  * Lightning Talk 3 (15min +15min Diskussion)
+
+__Veranstaltungsort:__ ROSEN Technology and Research Center, Edisonstraße 2, 49811 Lingen (Ems)   
+__Uhrzeit:__ 18:00 Uhr  
+__Anmeldung:__ [Veranstaltung bei Meetup](https://www.meetup.com/de-DE/emsland-macht-agil/events/281528377/)
+
+# LNGN Agile Meetup
+
+Bis Ende 201 waren wir unter dem Namen _LNGN Agile Meetup_ tätig und führten folgende Meetups durch.
 
 ## Termine 2019
 
@@ -15,7 +48,9 @@ Ben und Marcel
 * '28. November im IT Zentrum, CoWorking Space
 
 ### 28. November 2019
-* tbd
+* Leonie Kattenbeck - Agiles Risiko Management
+* Marcel und Ben - Emsland macht Agil - Rebranding im großen Stil
+
 * [Veranstaltung bei Meetup](https://www.meetup.com/de-DE/LNGN-Agile-Meetup/events/259304537/)
 
 __Veranstaltungsort:__ IT-Zentrum Lingen, Kaiserstraße 10b, 49809 Lingen (Ems)  
