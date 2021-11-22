@@ -22,7 +22,15 @@ Ben und Marcel
 Standorten vertreten. Besuche doch unsere Webseite für weitere Informationen oder tritt direkt dem [Slack Workspace](https://join.slack.com/t/wermachtagil/shared_invite/enQtOTAwNDYwOTk3OTM3LWY5YjA2YzgxYmMxZDhkMWMxNzhkNzg5MDZhYjAzODk1OGVlN2ZlODBhMmMyNDk0YWFmMjk5MGUxNTQwYTQ4YWM) bei.
 
 # Termine 2021
-### 25. November 2021
+### ~~25. November 2021~~ - Abgesagt
+<div class="note" markdown="1" style="--title: 'Leider abgesagt'">
+
+> Leider müssen wir aufgrund der aktuellen Pandemielage _Emsland macht agil_ auf das Frühjahr 2022 verschieben und den Termin am 25. November absagen!  
+> 
+> Wir haben über 40 Anmeldungen - ein neuer Rekord - dennoch, bzw. gerade deswegen werden wir unserer Verantwortung gerecht.
+> 
+> Wir freuen uns auf eure Teilnahme im hoffentlich pandemiefreien 2022.
+</div>
 Wir möchten euch wiedersehen! Zwei Jahre ist es her, dass wir uns in Persona über Agile Methoden im Emsland ausgetauscht haben.
 
 **Agenda**
